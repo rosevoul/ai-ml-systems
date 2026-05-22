@@ -1,6 +1,5 @@
 import { defineConfig } from 'vite'
 
-// ← Set this to your GitHub repo name, e.g. '/faye-recsys/'
 const REPO_NAME = '/ai-ml-systems/'
 
 export default defineConfig({
